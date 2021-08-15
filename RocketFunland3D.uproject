@@ -120,6 +120,7 @@
 	"TargetPlatforms": [
 		"Linux",
 		"LinuxAArch64",
-		"Windows"
+		"Windows",
+		"Mac"
 	]
 }
